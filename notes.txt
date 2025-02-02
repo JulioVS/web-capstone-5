@@ -1,0 +1,14 @@
+Notes
+
+Book properties:
+
+ID (DB internal) ✅
+Title ✅
+Author ✅
+Description ✅
+Image Link ✅
+Data Published ✅
+ISBN ✅
+My Rating ✅
+My Review ✅
+Date Read ✅
